@@ -1,7 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:xogame/screenplayer.dart';
 
-import 'logicscreen.dart';
+
+import 'loginscreen.dart';
 
 
 void main() {
